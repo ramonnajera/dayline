@@ -1,4 +1,4 @@
-# Dayline DPDU - Plantillas de Correo
+# Dayline DPDU - Plantillas de Correos
 
 Este repositorio contiene el código fuente y los recursos gráficos para los correos informativos de **Dayline DPDU**, el evento bimestral de presentaciones y prototipos del equipo de desarrollo del Departamento de Plataformas Digitales Universitarias.
 
